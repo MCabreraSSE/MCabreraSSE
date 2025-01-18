@@ -1,4 +1,4 @@
-## Security Researcher | Consultant
+## Security Researcher | AI Agent Developmer
 
 <a href="https://www.spred.com.ar" target="_blank" rel="noopener noreferrer">![Website](https://img.shields.io/badge/Website-inactive.svg?style=for-the-badge&logo=Windows%20Terminal)</a>
 <a href="https://www.linkedin.com/in/cabreramartin/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-informational.svg?style=for-the-badge&logo=linkedin)</a>
